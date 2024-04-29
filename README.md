@@ -41,6 +41,6 @@
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=youmasther&show_icons=true&locale=en" alt="Youmasther's github stats" /></a> | <a href="https://github.com/youmasther/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youmasther&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=youmasther&show_icons=true&theme=tokyonight&locale=en" alt="Youmasther's github stats" /></a> | <a href="https://github.com/youmasther/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youmasther&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youmasther&&theme=tokyonight" alt="youmasther" /></p>
