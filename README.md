@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Youssouf Diallo</h1>
 <h5 align="center">A passionate Software Engineer from Dakar,Senegal with 5 years of experience working in the field of web development Currently working full-time,I speak Python and Javascript very well with a good knowledge of the ecosystem and I like to write elegant and performant code</h5>
 
-- 🔭 I’m currently working on [Subito International](https://www.mysubito.net/)
+- 🔭 I’m currently working as a Freelancer
 
 - 🌱 I’m currently learning **Typescript,Next js**
 
